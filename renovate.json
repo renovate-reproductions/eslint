@@ -3,5 +3,8 @@
     "extends": [
         "config:base"
     ],
+    "github-actions": {
+      "pinDigests": true
+    },
     "dependencyDashboardApproval": true
 }
