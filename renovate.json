@@ -3,5 +3,11 @@
     "extends": [
         "config:base"
     ],
+    "packageRules": [
+        {
+            "matchPackagePatterns": ["*"],
+            "semanticCommitType": null
+        }
+     ],
     "dependencyDashboardApproval": true
 }
