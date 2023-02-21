@@ -6,7 +6,7 @@
     "packageRules": [
         {
             "matchPackagePatterns": ["*"],
-            "semanticCommitType": null
+            "semanticCommitScope": null
         }
      ],
     "dependencyDashboardApproval": true
